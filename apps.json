@@ -1,0 +1,25 @@
+{
+  "name": "NOOP Source",
+  "identifier": "com.noop.altstore",
+  "sourceURL": "https://gusgus1983-source.github.io/noop-altstore/apps.json",
+  "apps": [
+    {
+      "name": "NOOP",
+      "bundleIdentifier": "com.noop.app",
+      "developerName": "eltomato89",
+      "subtitle": "Offline WHOOP companion",
+      "localizedDescription": "Pair your WHOOP 5.0 over Bluetooth. No cloud, no account, no subscription.",
+      "iconURL": "https://raw.githubusercontent.com/NoopApp/noop/main/docs/assets/readme-hero.png",
+      "tintColor": "000000",
+      "versions": [
+        {
+          "version": "1.39",
+          "date": "2026-06-09",
+          "downloadURL": "https://github.com/eltomato89/noop/releases/download/v1.39/NOOP.ipa",
+          "size": 0
+        }
+      ]
+    }
+  ],
+  "news": []
+}
